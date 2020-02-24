@@ -13,3 +13,7 @@ JavaFX library has been removed from JDK. The library must identify as external 
 * [Intellij](https://openjfx.io/openjfx-docs/#IDE-Intellij) configurations.
 * [NetBeans](https://openjfx.io/openjfx-docs/#IDE-NetBeans) congiruations.
 * [Eclipse](https://openjfx.io/openjfx-docs/#IDE-Eclipse) configurations.
+
+## In-game Screenshots
+![sc1](https://i.ibb.co/80YK368/Screenshot-1.png)
+![sc2](https://i.ibb.co/T4d2p9s/Screenshot-2.png)
