@@ -1,4 +1,4 @@
-# CSE1142-Project-1
+# Snared By Ankh
 A JavaFX Game by Talha Bayburtlu &amp; Melik Çağan Oduncuoğlu within Computer Programming II course.
 
 ## Prerequisites
